@@ -1,1 +1,2 @@
 # learn-github
+I’m a curious builder who enjoys turning messy ideas into simple, working projects. I like learning by doing—experimenting with new tools, breaking things, and fixing them better than before. Most of my time goes into improving small details, writing cleaner code, and keeping momentum through consistent progress. Outside of projects, I’m usually exploring random topics, collecting inspiration, and refining my workflow. My goal is to keep growing, ship useful work, and leave every project a little better than I found it.
